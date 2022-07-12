@@ -1,4 +1,4 @@
-import Main from './components/tours/Main';
+import Main from './components/menu/Main';
 import './App.css';
 
 function App() {
