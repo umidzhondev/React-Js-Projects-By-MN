@@ -1,5 +1,5 @@
 import React from 'react';
-import Main from './components/pagination/Main';
+import Main from './components/dark-mode/Main';
 import "./App.css";
 function App() {
   return (
