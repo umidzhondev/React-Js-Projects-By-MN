@@ -19,8 +19,8 @@ const Dashboard = () => {
   }
   return (
     <main>
-      {/* <Navbar></Navbar>
-      <Search/> */}
+      <Navbar/>
+      <Search/>
       <Info/>
       <User/>
       <Repos/>
