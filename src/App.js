@@ -1,11 +1,12 @@
-import Main from './components/tours/Main';
-import './App.css';
+import React from 'react';
+import Main from './components/search-github-users/Main';
 
+import "./App.css";
 function App() {
   return (
-    <div className="App">
+     <div>
       <Main/>
-    </div>
+     </div>
   );
 }
 

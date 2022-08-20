@@ -11,7 +11,7 @@ const Main = () => {
 
   const removeTour = (id) => {
     const newTours = tours.filter((tour) => tour.id !== id);
-    setTours(newTours);
+    setTours(newTours)
   };
 
   const fetchTours = async () => {
